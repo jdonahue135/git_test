@@ -1,1 +1,1 @@
-Git test project as part of The Odin Project's curriculum (https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics?ref=lnav)
+Git test project done as part of The Odin Project's curriculum (https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics?ref=lnav)
